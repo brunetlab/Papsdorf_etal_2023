@@ -1,0 +1,74 @@
+Term_SH	Combined_Score_SH
+glutamine family amino acid biosynthetic process (GO:0009084)	14.39434934
+response to cadmium ion (GO:0046686)	13.12692101
+dicarboxylic acid biosynthetic process (GO:0043650)	12.48633155
+glutamate metabolic process (GO:0006536)	11.31176471
+stress response to cadmium ion (GO:1990170)	10.61183536
+positive regulation of motor neuron migration (GO:1905485)	10.2072375
+Wnt signaling pathway involved in digestive tract morphogenesis (GO:0044333)	9.782180505
+motor neuron migration (GO:0097475)	9.72736736
+regulation of motor neuron migration (GO:1905483)	9.724925467
+interneuron migration (GO:1904936)	9.628173773
+hexose metabolic process (GO:0019318)	8.722314982
+defense response to bacterium (GO:0042742)	8.673562815
+defense response to Gram-positive bacterium (GO:0050830)	7.491001102
+asymmetric protein localization involved in cell fate determination (GO:0045167)	6.985420487
+positive regulation of neuron migration (GO:2001224)	6.906238004
+embryonic digestive tract development (GO:0048566)	6.590343478
+asymmetric protein localization (GO:0008105)	6.478895939
+neuroblast migration (GO:0097402)	6.458858958
+endodermal cell fate commitment (GO:0001711)	6.095380985
+regulation of distal tip cell migration (GO:1903354)	5.899518629
+left/right pattern formation (GO:0060972)	5.845902131
+lipid transport (GO:0006869)	5.827189223
+organic substance transport (GO:0071702)	5.709549978
+embryonic organ morphogenesis (GO:0048562)	5.548271455
+left/right axis specification (GO:0070986)	5.39386888
+embryonic digestive tract morphogenesis (GO:0048557)	5.165887142
+establishment of spindle orientation (GO:0051294)	5.05788606
+S-adenosylmethionine-dependent methyltransferase activity (GO:0008757)	17.1913205
+methyltransferase activity (GO:0008168)	14.4165765
+RNA polymerase II core promoter sequence-specific DNA binding (GO:0000979)	14.1550753
+copper ion binding (GO:0005507)	13.8152845
+receptor tyrosine kinase binding (GO:0030971)	11.934687
+protein tyrosine kinase binding (GO:1990782)	11.2230089
+RNA polymerase II transcription coactivator activity (GO:0001105)	10.6806208
+frizzled binding (GO:0005109)	10.0728904
+"transcriptional activator activity, RNA polymerase II transcription factor binding (GO:0001190)"	8.38870898
+UDP-glycosyltransferase activity (GO:0008194)	8.37165336
+core promoter sequence-specific DNA binding (GO:0001046)	7.77213963
+RNA polymerase II transcription cofactor activity (GO:0001104)	5.87917535
+glucuronosyltransferase activity (GO:0015020)	5.59019724
+"transferase activity, transferring hexosyl groups (GO:0016758)"	5.07101109
+negative regulation of endopeptidase activity (GO:0010951)	12.74769478
+regulation of endopeptidase activity (GO:0052548)	12.24803174
+drug catabolic process (GO:0042737)	9.320080224
+negative regulation of peptidase activity (GO:0010466)	8.805423176
+exogenous drug catabolic process (GO:0042738)	8.595237988
+response to copper ion (GO:0046688)	8.133998614
+iron ion homeostasis (GO:0055072)	7.609188767
+transition metal ion homeostasis (GO:0055076)	7.004161386
+phagosome maturation (GO:0090382)	6.121776196
+phagocytosis (GO:0006909)	6.014073685
+cellular response to superoxide (GO:0071451)	5.759357828
+removal of superoxide radicals (GO:0019430)	5.666489578
+defense response to Gram-positive bacterium (GO:0050830)	5.635632665
+positive regulation of proteasomal protein catabolic process (GO:1901800)	5.236447567
+phosphate-containing compound metabolic process (GO:0006796)	5.103429058
+phospholipid metabolic process (GO:0006644)	5.055718199
+peroxisomal part (GO:0044439)	6.451454097
+copper ion binding (GO:0005507)	17.64241661
+"oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen (GO:0016712)"	15.60669542
+steroid hydroxylase activity (GO:0008395)	15.57949949
+carboxylic ester hydrolase activity (GO:0052689)	10.91989708
+metal ion transmembrane transporter activity (GO:0046873)	10.30050745
+heme binding (GO:0020037)	8.923265818
+lipase activity (GO:0016298)	8.702245536
+cysteine-type peptidase activity (GO:0008234)	8.098959315
+serine-type endopeptidase inhibitor activity (GO:0004867)	6.300804897
+phospholipase activity (GO:0004620)	6.283776442
+protease binding (GO:0002020)	5.949950325
+"hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in linear amides (GO:0016811)"	5.904916734
+S-adenosylmethionine-dependent methyltransferase activity (GO:0008757)	5.599031069
+ether hydrolase activity (GO:0016803)	5.167102836
+phosphatidylinositol-4-phosphate binding (GO:0070273)	5.074324094

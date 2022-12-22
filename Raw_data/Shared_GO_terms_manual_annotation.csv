@@ -1,0 +1,29 @@
+Column1,Combined_score_EG,Combined_score_SH,GO,Category,Column2
+peroxisomal part (GO:0044439),23.18277077,6.451454097,Cellular component,Peroxisome,1
+response to cadmium ion (GO:0046686),6.356879119,13.12692101,Biological process,Ion,2
+stress response to cadmium ion (GO:1990170),17.71325346,10.61183536,Biological process,Ion,2
+transition metal ion homeostasis (GO:0055076),5.701778409,7.004161386,Biological process,Ion,2
+copper ion binding (GO:0005507),8.720760605,17.64241661,Molecular Function,Ion ,2
+heme binding (GO:0020037),18.77643893,8.923265818,Molecular Function,Ion ,2
+metal ion transmembrane transporter activity (GO:0046873),17.90785706,10.30050745,Molecular Function,Ion ,2
+cellular response to superoxide (GO:0071451),5.444866748,5.759357828,Biological process,ROS,3
+removal of superoxide radicals (GO:0019430),5.370713969,5.666489578,Biological process,ROS,3
+negative regulation of endopeptidase activity (GO:0010951),18.74915614,12.74769478,Biological process,Amino acid metabolism,4
+negative regulation of peptidase activity (GO:0010466),16.74355643,8.805423176,Biological process,Amino acid metabolism,4
+regulation of endopeptidase activity (GO:0052548),20.92615714,12.24803174,Biological process,Amino acid metabolism,4
+serine-type endopeptidase inhibitor activity (GO:0004867),15.00916546,6.300804897,Biological process,Amino acid metabolism,4
+glutamate metabolic process (GO:0006536),7.900700167,11.31176471,Molecular Function,Amino acid metabolism,4
+hexose metabolic process (GO:0019318),9.655048427,8.722314982,Biological process,Metabolism,5
+phosphate-containing compound metabolic process (GO:0006796),9.111030744,5.103429058,Biological process,Metabolism,5
+"transferase activity, transferring hexosyl groups (GO:0016758)",9.763803422,5.07101109,Biological process,Metabolism,5
+dicarboxylic acid biosynthetic process (GO:0043650),6.059712434,12.48633155,Biological process,Enzymatic activity,6
+carboxylic ester hydrolase activity (GO:0052689),6.621749132,10.91989708,Molecular Function,Enzymatic activity,6
+cysteine-type peptidase activity (GO:0008234),5.864661896,8.098959315,Molecular Function,Enzymatic activity,6
+ether hydrolase activity (GO:0016803),12.59397523,5.167102836,Molecular Function,Enzymatic activity,6
+glucuronosyltransferase activity (GO:0015020),5.743884377,5.59019724,Molecular Function,Enzymatic activity,6
+"oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen (GO:0016712)",12.13181751,15.60669542,Molecular Function,Enzymatic activity,6
+UDP-glycosyltransferase activity (GO:0008194),16.69387486,8.37165336,Molecular Function,Enzymatic activity,6
+steroid hydroxylase activity (GO:0008395),12.10950093,15.57949949,Molecular Function,Lipid metabolism,7
+defense response to bacterium (GO:0042742),6.224525469,8.673562815,Biological process,Bacerial defense,8
+drug catabolic process (GO:0042737),14.33348761,9.320080224,Biological process,Drug,8
+exogenous drug catabolic process (GO:0042738),13.22854615,8.595237988,Biological process,Drug,8

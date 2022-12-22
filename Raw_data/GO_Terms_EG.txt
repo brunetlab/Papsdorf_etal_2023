@@ -1,0 +1,298 @@
+Term_EG	Combined_Score_EG
+muscle contraction (GO:0006936)	43.09011258
+heart contraction (GO:0060047)	21.23595859
+striated muscle contraction (GO:0006941)	18.77762331
+amino-acid betaine metabolic process (GO:0006577)	17.70445549
+actomyosin structure organization (GO:0031032)	15.46834419
+skeletal myofibril assembly (GO:0014866)	13.50334451
+carnitine metabolic process (GO:0009437)	13.30454164
+sarcomere organization (GO:0045214)	13.19090491
+stress response to cadmium ion (GO:1990170)	13.1429517
+myofibril assembly (GO:0030239)	11.61000046
+negative regulation of protein depolymerization (GO:1901880)	9.47646577
+muscle thin filament assembly (GO:0071689)	9.21223335
+regulation of muscle system process (GO:0090257)	9.156866143
+actin filament organization (GO:0007015)	8.7880189
+"mitochondrial electron transport, succinate to ubiquinone (GO:0006121)"	8.459086764
+long-chain fatty acid metabolic process (GO:0001676)	8.017005665
+regulation of synapse disassembly (GO:1905806)	8.001489913
+positive regulation of synapse disassembly (GO:1905808)	7.994327078
+fatty acid metabolic process (GO:0006631)	7.870186293
+regulation of protein polymerization (GO:0032271)	7.769038316
+regulation of protein modification by small protein conjugation or removal (GO:1903320)	7.635413467
+regulation of protein deneddylation (GO:0060625)	7.633460478
+regulation of muscle contraction (GO:0006937)	7.260397235
+negative regulation of actin filament polymerization (GO:0030837)	7.147034178
+phosphorylation of RNA polymerase II C-terminal domain (GO:0070816)	6.949358489
+negative regulation of supramolecular fiber organization (GO:1902904)	6.886207146
+regulation of sarcomere organization (GO:0060297)	6.639385832
+positive regulation of sarcomere organization (GO:0060298)	6.49948782
+positive regulation of striated muscle cell differentiation (GO:0051155)	6.490726838
+mitochondrial respiratory chain complex assembly (GO:0033108)	6.448940548
+actin filament capping (GO:0051693)	6.438399571
+response to cadmium ion (GO:0046686)	6.356879119
+regulation of actin filament polymerization (GO:0030833)	6.300481293
+barbed-end actin filament capping (GO:0051016)	6.272509707
+defense response to bacterium (GO:0042742)	6.224525469
+negative regulation of cytoskeleton organization (GO:0051494)	6.195676016
+monocarboxylic acid metabolic process (GO:0032787)	6.164821945
+stabilization of membrane potential (GO:0030322)	6.12119653
+phosphatidylcholine biosynthetic process (GO:0006656)	6.000179085
+positive regulation of ovulation (GO:0060279)	5.76251915
+positive regulation of cell development (GO:0010720)	5.558248787
+myosin filament assembly (GO:0031034)	5.325497672
+negative regulation of mitotic cell cycle (GO:0045930)	5.306452994
+axonal fasciculation (GO:0007413)	5.093803481
+contractile fiber (GO:0043292)	17.74502245
+myofibril (GO:0030016)	13.90763945
+striated muscle thin filament (GO:0005865)	12.50566895
+myosin filament (GO:0032982)	12.3915741
+actin filament (GO:0005884)	8.209992546
+membrane raft (GO:0045121)	8.040073596
+actomyosin (GO:0042641)	6.321490536
+mitochondrial intermembrane space (GO:0005758)	5.75810485
+intermediate filament cytoskeleton (GO:0045111)	5.173376534
+striated muscle myosin thick filament (GO:0005863)	5.088913749
+actin monomer binding (GO:0003785)	22.60531281
+stearoyl-CoA 9-desaturase activity (GO:0004768)	20.3058162
+acyl-CoA desaturase activity (GO:0016215)	18.59139029
+carnitine O-palmitoyltransferase activity (GO:0004095)	17.83019715
+tropomyosin binding (GO:0005523)	17.65426264
+O-palmitoyltransferase activity (GO:0016416)	17.56034148
+UDP-glycosyltransferase activity (GO:0008194)	16.69387486
+carnitine O-acyltransferase activity (GO:0016406)	14.20113656
+glucuronosyltransferase activity (GO:0015020)	11.51493574
+L-glutamate transmembrane transporter activity (GO:0005313)	10.36334751
+calcium ion binding (GO:0005509)	10.21191696
+"transferase activity, transferring hexosyl groups (GO:0016758)"	9.763803422
+actin filament binding (GO:0051015)	9.269417858
+metal ion binding (GO:0046872)	8.983303273
+iron ion binding (GO:0005506)	8.741764407
+actin binding (GO:0003779)	7.594106342
+outward rectifier potassium channel activity (GO:0015271)	7.436488439
+1-acylglycerol-3-phosphate O-acyltransferase activity (GO:0003841)	6.938120323
+SH3 domain binding (GO:0017124)	6.662619546
+leak channel activity (GO:0022840)	6.452672634
+lysophosphatidic acid acyltransferase activity (GO:0042171)	6.360546548
+"transferase activity, transferring acyl groups other than amino-acyl groups (GO:0016747)"	6.34887904
+RNA polymerase II carboxy-terminal domain kinase activity (GO:0008353)	5.797386607
+transition metal ion binding (GO:0046914)	5.608255644
+alditol:NADP+ 1-oxidoreductase activity (GO:0004032)	5.461739722
+serine-type exopeptidase activity (GO:0070008)	5.067114277
+"ATPase activity, coupled (GO:0042623)"	5.015268709
+response to cadmium ion (GO:0046686)	22.32865692
+regulation of endopeptidase activity (GO:0052548)	20.92615714
+negative regulation of endopeptidase activity (GO:0010951)	18.74915614
+respiratory electron transport chain (GO:0022904)	18.57078463
+heart contraction (GO:0060047)	18.11733626
+stress response to cadmium ion (GO:1990170)	17.71325346
+"mitochondrial electron transport, succinate to ubiquinone (GO:0006121)"	17.55032738
+negative regulation of peptidase activity (GO:0010466)	16.74355643
+phenol-containing compound biosynthetic process (GO:0046189)	16.02023147
+positive regulation of fatty acid metabolic process (GO:0045923)	15.98289491
+C4-dicarboxylate transport (GO:0015740)	15.84677093
+tryptophan catabolic process (GO:0006569)	15.54707464
+aerobic respiration (GO:0009060)	15.50301317
+negative regulation of cellular catabolic process (GO:0031330)	14.58685059
+branched-chain amino acid catabolic process (GO:0009083)	14.3777341
+drug catabolic process (GO:0042737)	14.33348761
+long-chain fatty acid metabolic process (GO:0001676)	14.12394505
+striated muscle contraction (GO:0006941)	13.95690169
+cellular protein catabolic process (GO:0044257)	13.91354953
+dicarboxylic acid metabolic process (GO:0043648)	13.86594704
+muscle thin filament assembly (GO:0071689)	13.82659966
+carbohydrate derivative catabolic process (GO:1901136)	13.71679976
+pyrimidine nucleobase catabolic process (GO:0006208)	13.29359583
+exogenous drug catabolic process (GO:0042738)	13.22854615
+regulation of apoptotic signaling pathway (GO:2001233)	12.70691925
+"mitochondrial electron transport, ubiquinol to cytochrome c (GO:0006122)"	12.66582638
+"mitochondrial electron transport, NADH to ubiquinone (GO:0006120)"	12.59867566
+tyrosine metabolic process (GO:0006570)	12.5965048
+cellular zinc ion homeostasis (GO:0006882)	12.53003469
+hydrogen transport (GO:0006818)	12.37701274
+acyl-CoA metabolic process (GO:0006637)	11.9131866
+mitochondrial ATP synthesis coupled electron transport (GO:0042775)	11.89877783
+cellular respiration (GO:0045333)	11.884738
+"energy coupled proton transport, down electrochemical gradient (GO:0015985)"	11.54700321
+regulation of protein polymerization (GO:0032271)	11.28798243
+alpha-amino acid catabolic process (GO:1901606)	11.21475651
+fatty acid beta-oxidation (GO:0006635)	11.1920306
+very long-chain fatty acid metabolic process (GO:0000038)	11.0836416
+methionine metabolic process (GO:0006555)	10.94756968
+ascaroside biosynthetic process (GO:1904070)	10.91761909
+fatty acid catabolic process (GO:0009062)	10.90873159
+ascaroside metabolic process (GO:1904069)	10.86207658
+fatty acid beta-oxidation using acyl-CoA oxidase (GO:0033540)	10.81644647
+glycoside biosynthetic process (GO:0016138)	10.75072201
+fatty acid metabolic process (GO:0006631)	10.70373844
+carbohydrate catabolic process (GO:0016052)	10.69481616
+skeletal myofibril assembly (GO:0014866)	10.62579717
+pyrimidine nucleobase metabolic process (GO:0006206)	10.46894262
+fatty acid elongation (GO:0030497)	10.42870162
+sphingolipid biosynthetic process (GO:0030148)	10.41194568
+proton transport (GO:0015992)	10.06886806
+proteolysis involved in cellular protein catabolic process (GO:0051603)	10.04480286
+very long-chain fatty acid biosynthetic process (GO:0042761)	10.00110517
+unsaturated fatty acid biosynthetic process (GO:0006636)	9.993080255
+extracellular matrix organization (GO:0030198)	9.972706322
+sphingolipid catabolic process (GO:0030149)	9.910008138
+collagen and cuticulin-based cuticle development (GO:0040002)	9.761138815
+hexose metabolic process (GO:0019318)	9.655048427
+phosphate-containing compound metabolic process (GO:0006796)	9.111030744
+fatty acid biosynthetic process (GO:0006633)	8.82200764
+monocarboxylic acid metabolic process (GO:0032787)	8.787214245
+membrane lipid biosynthetic process (GO:0046467)	8.780520204
+proteolysis (GO:0006508)	8.76537886
+"fatty acid elongation, unsaturated fatty acid (GO:0019368)"	8.673387699
+medium-chain fatty acid metabolic process (GO:0051791)	8.586242137
+regulation of transport (GO:0051049)	8.378696735
+medium-chain fatty acid catabolic process (GO:0051793)	8.334831404
+nicotinamide nucleotide metabolic process (GO:0046496)	8.274239657
+glucose metabolic process (GO:0006006)	8.162842581
+fatty acid beta-oxidation using acyl-CoA dehydrogenase (GO:0033539)	8.115634394
+pyruvate metabolic process (GO:0006090)	8.110624762
+ATP generation from ADP (GO:0006757)	8.042433444
+citrate transport (GO:0015746)	7.983387231
+phosphatidylcholine biosynthetic process (GO:0006656)	7.983105093
+"fatty acid elongation, monounsaturated fatty acid (GO:0034625)"	7.920881259
+glutamate metabolic process (GO:0006536)	7.900700167
+cellular transition metal ion homeostasis (GO:0046916)	7.896316296
+sphingolipid metabolic process (GO:0006665)	7.866804063
+glycolytic process (GO:0006096)	7.865667673
+anion transmembrane transport (GO:0098656)	7.856422529
+positive regulation of apoptotic signaling pathway (GO:2001235)	7.804087802
+"fatty acid elongation, saturated fatty acid (GO:0019367)"	7.76552041
+phosphatidylethanolamine metabolic process (GO:0046337)	7.713631914
+"fatty acid elongation, polyunsaturated fatty acid (GO:0034626)"	7.654283856
+glycoprotein catabolic process (GO:0006516)	7.464109399
+ATP biosynthetic process (GO:0006754)	7.440068094
+alpha-amino acid metabolic process (GO:1901605)	7.293946962
+protein deglycosylation (GO:0006517)	7.198949973
+lipid homeostasis (GO:0055088)	7.128925899
+hexose biosynthetic process (GO:0019319)	7.123067766
+ceramide biosynthetic process (GO:0046513)	6.942424145
+gluconeogenesis (GO:0006094)	6.822363664
+ceramide metabolic process (GO:0006672)	6.815283814
+membrane lipid metabolic process (GO:0006643)	6.805802915
+positive regulation of cell development (GO:0010720)	6.801324307
+positive regulation of striated muscle cell differentiation (GO:0051155)	6.738642284
+regulation of sarcomere organization (GO:0060297)	6.738597636
+fatty acid oxidation (GO:0019395)	6.582643235
+monocarboxylic acid catabolic process (GO:0072329)	6.513861035
+"energy coupled proton transmembrane transport, against electrochemical gradient (GO:0015988)"	6.350347051
+kynurenine metabolic process (GO:0070189)	6.241911522
+positive regulation of sarcomere organization (GO:0060298)	6.188585599
+ATP synthesis coupled proton transport (GO:0015986)	6.15465397
+heme biosynthetic process (GO:0006783)	6.082017919
+positive regulation of post-embryonic development (GO:0048582)	6.081199955
+dicarboxylic acid biosynthetic process (GO:0043650)	6.059712434
+zinc ion homeostasis (GO:0055069)	6.000816206
+muscle contraction (GO:0006936)	5.878263876
+cristae formation (GO:0042407)	5.778442239
+post-embryonic body morphogenesis (GO:0040032)	5.770996136
+transition metal ion homeostasis (GO:0055076)	5.701778409
+coenzyme metabolic process (GO:0006732)	5.701594491
+glucosylceramide metabolic process (GO:0006678)	5.701252614
+pteridine-containing compound biosynthetic process (GO:0042559)	5.535602638
+hydrogen peroxide metabolic process (GO:0042743)	5.526713029
+cellular response to superoxide (GO:0071451)	5.444866748
+cuticle development involved in collagen and cuticulin-based cuticle molting cycle (GO:0042338)	5.438357759
+removal of superoxide radicals (GO:0019430)	5.370713969
+sodium ion export (GO:0071436)	5.226696948
+organonitrogen compound biosynthetic process (GO:1901566)	5.146652841
+sodium ion homeostasis (GO:0055078)	5.038203124
+hydrogen peroxide catabolic process (GO:0042744)	5.007591083
+cellular potassium ion homeostasis (GO:0030007)	5.006481822
+sodium ion export from cell (GO:0036376)	5.005161358
+peroxisomal part (GO:0044439)	23.18277077
+myofibril (GO:0030016)	13.30670046
+microbody lumen (GO:0031907)	12.23799692
+striated muscle thin filament (GO:0005865)	11.79319492
+membrane raft (GO:0045121)	11.5000962
+peroxisomal matrix (GO:0005782)	10.97025927
+"mitochondrial respiratory chain complex II, succinate dehydrogenase complex (ubiquinone) (GO:0005749)"	8.815047566
+myosin filament (GO:0032982)	7.893748695
+lytic vacuole (GO:0000323)	7.72752248
+vacuolar proton-transporting V-type ATPase complex (GO:0016471)	7.55610528
+lysosome (GO:0005764)	7.518829266
+contractile fiber (GO:0043292)	7.241939471
+actomyosin (GO:0042641)	6.406152061
+striated muscle myosin thick filament (GO:0005863)	5.784234802
+aggresome (GO:0016235)	5.504714262
+amphisome (GO:0044753)	5.460829065
+peroxisomal membrane (GO:0005778)	5.171968259
+heme binding (GO:0020037)	18.77643893
+C4-dicarboxylate transmembrane transporter activity (GO:0015556)	18.2135657
+metal ion transmembrane transporter activity (GO:0046873)	17.90785706
+serine-type endopeptidase inhibitor activity (GO:0004867)	15.00916546
+hydrogen ion transmembrane transporter activity (GO:0015078)	13.43459444
+ether hydrolase activity (GO:0016803)	12.59397523
+carboxypeptidase activity (GO:0004180)	12.57486619
+"oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen (GO:0016712)"	12.13181751
+steroid hydroxylase activity (GO:0008395)	12.10950093
+aspartic-type endopeptidase activity (GO:0004190)	12.00951342
+"oxidoreductase activity, acting on the CH-NH group of donors, NAD or NADP as acceptor (GO:0016646)"	11.58640171
+"oxidoreductase activity, acting on the CH-CH group of donors, quinone or related compound as acceptor (GO:0016635)"	11.52633154
+tropomyosin binding (GO:0005523)	11.21840462
+serine-type exopeptidase activity (GO:0070008)	10.8883367
+"oxidoreductase activity, acting on the aldehyde or oxo group of donors, NAD or NADP as acceptor (GO:0016620)"	10.81203529
+serine-type carboxypeptidase activity (GO:0004185)	10.33953368
+fatty acid elongase activity (GO:0009922)	10.04243695
+N-methyltransferase activity (GO:0008170)	9.817373673
+amide transmembrane transporter activity (GO:0042887)	9.412219907
+"ATPase activity, coupled to transmembrane movement of ions, rotational mechanism (GO:0044769)"	9.131597125
+peptide-N4-(N-acetyl-beta-glucosaminyl)asparagine amidase activity (GO:0000224)	9.012528903
+acyl-CoA dehydrogenase activity (GO:0003995)	8.965849873
+1-phosphatidylinositol binding (GO:0005545)	8.946805187
+aldehyde-lyase activity (GO:0016832)	8.920030204
+C-acyltransferase activity (GO:0016408)	8.897118294
+copper ion binding (GO:0005507)	8.720760605
+urea transmembrane transporter activity (GO:0015204)	8.704920562
+aldehyde dehydrogenase (NAD) activity (GO:0004029)	8.528723205
+fatty acid synthase activity (GO:0004312)	8.438799718
+"oxidoreductase activity, acting on the CH-CH group of donors, oxygen as acceptor (GO:0016634)"	8.341273756
+3-hydroxyacyl-CoA dehydrogenase activity (GO:0003857)	8.118904378
+myosin binding (GO:0017022)	8.064434979
+succinate transmembrane transporter activity (GO:0015141)	8.050066695
+NADH dehydrogenase activity (GO:0003954)	8.034088905
+"oxidoreductase activity, acting on the CH-CH group of donors, NAD or NADP as acceptor (GO:0016628)"	8.025636718
+acyl-CoA oxidase activity (GO:0003997)	7.829004147
+transaminase activity (GO:0008483)	7.741001429
+nucleotidase activity (GO:0008252)	7.724448129
+monocarboxylic acid transmembrane transporter activity (GO:0008028)	7.56191718
+solute:proton symporter activity (GO:0015295)	7.422642795
+secondary active transmembrane transporter activity (GO:0015291)	7.120316689
+sodium-independent organic anion transmembrane transporter activity (GO:0015347)	7.05052095
+iron ion binding (GO:0005506)	6.934771595
+acyl-CoA desaturase activity (GO:0016215)	6.709789789
+FAD binding (GO:0071949)	6.680249687
+"oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor (GO:0016616)"	6.662568317
+carboxylic ester hydrolase activity (GO:0052689)	6.621749132
+carboxylic acid transmembrane transporter activity (GO:0046943)	6.617104853
+stearoyl-CoA 9-desaturase activity (GO:0004768)	6.55418485
+metalloaminopeptidase activity (GO:0070006)	6.413049617
+metalloexopeptidase activity (GO:0008235)	6.38787736
+sugar transmembrane transporter activity (GO:0051119)	6.36877298
+aspartic-type peptidase activity (GO:0070001)	6.241504934
+carnitine O-acyltransferase activity (GO:0016406)	6.091687595
+phosphoric diester hydrolase activity (GO:0008081)	6.059613131
+guanosine-diphosphatase activity (GO:0004382)	5.987428452
+aminopeptidase activity (GO:0004177)	5.978525772
+uridine-diphosphatase activity (GO:0045134)	5.944127152
+"transferase activity, transferring acyl groups other than amino-acyl groups (GO:0016747)"	5.917426067
+flavin adenine dinucleotide binding (GO:0050660)	5.89121565
+ferrous iron binding (GO:0008198)	5.869977857
+cysteine-type peptidase activity (GO:0008234)	5.864661896
+dipeptidyl-peptidase activity (GO:0008239)	5.779993551
+glucuronosyltransferase activity (GO:0015020)	5.743884377
+monovalent cation:proton antiporter activity (GO:0005451)	5.66583343
+organic anion transmembrane transporter activity (GO:0008514)	5.626637184
+glucosidase activity (GO:0015926)	5.594438415
+hydro-lyase activity (GO:0016836)	5.586360836
+ATPase regulator activity (GO:0060590)	5.468624037
+"ATPase activity, coupled to transmembrane movement of ions, phosphorylative mechanism (GO:0015662)"	5.464851258
+potassium:proton antiporter activity (GO:0015386)	5.398669757
+sodium:proton antiporter activity (GO:0015385)	5.365710145
+"oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, NAD(P)H as one donor, and incorporation of one atom of oxygen (GO:0016709)"	5.328127763
+aldo-keto reductase (NADP) activity (GO:0004033)	5.057674032
+hexosaminidase activity (GO:0015929)	5.016928161
