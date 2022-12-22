@@ -4,7 +4,7 @@ Scripts 1-8 are code analyzing the lipidomics data and generate the correspondin
 
 Script 9 generates the GO-term heatmap
 
-Script 10 and 11 calculates the lipid droplet peroxisome screen statistics
+Script 10 and 11 calculate the lipid droplet peroxisome screen statistics
 
 ## Raw data:
 Contains all the raw data that is necessary to run the scripts
