@@ -1,4 +1,4 @@
-# All code associated with Papsdorf et. al. 2022
+# All code associated with Papsdorf et. al. 2023
 ## Scripts:
 Scripts 1-8 are code analyzing the lipidomics data and generate the corresponding figures and tables. The lipidomics data contains conditions, that are not used in the current manuscript (PA and PRX). These are omitted from the plots.
 
